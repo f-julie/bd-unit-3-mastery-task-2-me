@@ -1,0 +1,10 @@
+julie@DESKTOP-URGQT26 MINGW64 ~/Documents/BloomTech/Unit03/Sprint9/Module1/bd-unit-3-mastery-task-2-f-julie/RemoteDebugger/bd_unit_3_application_for_remote_deb
+ugging/build/classes/java/main (main)
+$ java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005 Application
+Listening for transport dt_socket at address: 5005
++---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+--------
+-+---------+---------+---------+-$$$$$$$$+$$$$$$$$$+$$$$$$$$$+$$$$$$$$$+$$--@@@@@+@@@@@@@@@+@@@@@@@@@+@@@@@@@@@+@@@@@@@@@+--------Listening for transport dt_so
+cket at address: 5005
+-+---------+---
+julie@DESKTOP-URGQT26 MINGW64 ~/Documents/BloomTech/Unit03/Sprint9/Module1/bd-unit-3-mastery-task-2-f-julie/RemoteDebugger/bd_unit_3_application_for_remote_deb
+ugging/build/classes/java/main (main)
